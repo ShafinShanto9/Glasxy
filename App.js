@@ -17,7 +17,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hey Hello React Native</Text>
-      <Text style={{marginTop: spacing[2], fontFamily:'LeagueSpartan-Regular', fontSize: spacing[8]}} >Here Using Spacing</Text>
+      <Text style={{marginTop: spacing[2], fontFamily:'LeagueSpartan-Regular', fontSize: spacing[8]}} >Here Using Spacing i'm sure its working</Text>
       <StatusBar style="auto" />
     </View>
   );
